@@ -3,7 +3,7 @@ export const userData = {
   devUsername: "surajit20107",
   github: 'https://github.com/surajit20107',
   facebook: 'https://www.facebook.com/surajit20107',
-  linkedIn: 'https://www.linkedin.com/in/surajit20107',
+  linkedIn: 'https://www.linkedin.com/in/surajit-jana20107',
   twitter: 'https://twitter.com/surajit_20107',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/surajit_07",
